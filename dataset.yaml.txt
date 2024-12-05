@@ -1,0 +1,6 @@
+names:
+  0 : child
+  1 : dog
+  2 : runnig child
+  3 : chasing dog
+  4 : dog biting child

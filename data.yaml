@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['chasing dog', 'child', 'dog biting child', 'dog', 'running child']
+
+roboflow:
+  workspace: dog-bite-detection
+  project: dog-detection-is87r
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/dog-bite-detection/dog-detection-is87r/dataset/3
